@@ -11,9 +11,9 @@ The SCUT-CTW1500 dataset can be downloaded through the following link:
 Some details:         
 |scenes| number | size|
 |-------------------|:-------------------:|:---------------------:|
-|train ticket | 300k synth + 1.9 real| 13G|
-|passport | 100k synth |5.8G|
-|business card | 200k synth| 19G|
+|train ticket | 300k synth + 1.9 real| 13G|  
+|passport | 100k synth |5.8G|   
+|business card | 200k synth| 19G|   
 
 
 ## Citation
