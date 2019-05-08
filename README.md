@@ -9,6 +9,10 @@ This repository is designed to provide an open-source dataset for Visual Text Ex
 ![real1](./figures/real1.jpg)
 ![real2](./figures/real2.jpg)
 
+1. business card images
+![bc1](./figures/bc1.png)
+![bc2](./figures/bc2.png)
+
 ## Downloads
 The dataset can be downloaded through the following link:   
 [baiduyun](https://pan.baidu.com/s/1B_1KCQRBmd0xS5R_OHuxPA), PASSWORD: dbrj
