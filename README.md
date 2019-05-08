@@ -11,9 +11,9 @@ This repository is designed to provide an open-source dataset for Visual Text Ex
 ![real2](./figures/real2.jpg)
 
 #### Synthetic images 
-Some clean images
+##### Some clean images
 ![synth-easy](./figures/synth-easy.png)
-Some hard images
+##### Some hard images
 ![synth-hard](./figures/synth-hard.png)
 
 ### Passport
