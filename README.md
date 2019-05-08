@@ -20,7 +20,7 @@ This repository is designed to provide an open-source dataset for Visual Text Ex
 ##### Some images
 ![passport-easy](./figures/passport-easy.png)
 ##### Some hard images
-![passport-hard](./figures/synth-hard.png)
+![passport-hard](./figures/passport-hard.png)
 
 ### Business card
 ![bc1](./figures/bc1.png)
