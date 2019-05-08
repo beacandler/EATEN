@@ -5,11 +5,21 @@ EATEN: Entity-aware Attention for Single Shot Visual Text Extraction
 This repository is designed to provide an open-source dataset for Visual Text Extraction.
 
 ## Samples
-1. some real train ticket images
+### Train ticket
+#### Real images 
 ![real1](./figures/real1.jpg)
 ![real2](./figures/real2.jpg)
 
-1. business card images
+#### Synthetic images 
+1. Some clean images
+![synth-easy](./figures/synth-easy.png)
+2. Some hard images
+![synth-hard](./figures/synth-hard.png)
+
+### Passport
+
+### Business card
+#### Synth images
 ![bc1](./figures/bc1.png)
 ![bc2](./figures/bc2.png)
 
