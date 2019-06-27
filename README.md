@@ -28,7 +28,7 @@ This repository is designed to provide an open-source dataset for Visual Text Ex
 
 ## Downloads
 The dataset can be downloaded through the following link:   
-[baiduyun](https://pan.baidu.com/s/1B_1KCQRBmd0xS5R_OHuxPA), PASSWORD: dbrj
+[baiduyun](https://pan.baidu.com/s/1HVMa_bpCeegticZVFOkJ5g), PASSWORD: e4z1 
 
 Some details:         
 
