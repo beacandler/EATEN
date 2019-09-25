@@ -1,5 +1,5 @@
 # EATEN: Entity-aware Attention for Single Shot Visual Text Extraction     
-Accepted to ICDAR 2019      
+Accepted to ICDAR 2019 [arxiv](https://arxiv.org/abs/1909.09380#)      
 Authors: He Guo, Xiameng Qin, Jiaming Liu, Junyu Han, Jingtuo Liu and Errui Ding     
 
 ## Abstract
