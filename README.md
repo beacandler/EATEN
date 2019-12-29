@@ -42,4 +42,13 @@ Some details:
    
 
 
-## Citation
+## Limitations&&Todo
+  - [A large of training data]
+    Todo: 
+    1. Use CycleGan or domain adaptation to synth data to train EATEN.
+    2. Introduce datasets of STR to EATEN.
+  - [Generalization on complex scenes]
+    Todo:
+    1. Add bounding box annotations of ToIs to EATEN, such as [2019-ICCV-oral Towards Unconstrained End-to-End Text Spotting](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qin_Towards_Unconstrained_End-to-End_Text_Spotting_ICCV_2019_paper.pdf).
+    2. Merge server decoder.
+
