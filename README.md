@@ -39,10 +39,10 @@ Some details:
 |train ticket | 300k synth + 1.9 real| 13G|[dataset_trainticket.tar](https://drive.google.com/open?id=1zxu44zSBtBw9CZjIIVPfK0h9YqHfQKID)|  
 |passport | 100k synth |5.8G|[dataset_passport.tar](https://drive.google.com/open?id=11XhKsjqzZY6jBakkLDy8lywE3w37kPaC)|  
 |business card | 200k synth| 19G|
-[dataset_business.tar.0](https://drive.google.com/open?id=1irnwv8MqK9nCT_NqmnjHfQ8DlwdMwcBs) \\
-[dataset_business.tar.1](https://drive.google.com/open?id=16Y26c5VCBYx_CD7Mz3UR6rCbVclq7sRP) \\
-[dataset_business.tar.2](https://drive.google.com/open?id=1ilQC0cmLhW_N9sl6UbGQZHlk5p_H98Q4) \\
-[dataset_business.tar.3](https://drive.google.com/open?id=1URl4V8Zxgpl0jifkjIDjy-gMa5g3Jtsj)|   
+[dataset_business.tar.0   ](https://drive.google.com/open?id=1irnwv8MqK9nCT_NqmnjHfQ8DlwdMwcBs)
+[dataset_business.tar.1   ](https://drive.google.com/open?id=16Y26c5VCBYx_CD7Mz3UR6rCbVclq7sRP)
+[dataset_business.tar.2   ](https://drive.google.com/open?id=1ilQC0cmLhW_N9sl6UbGQZHlk5p_H98Q4)
+[dataset_business.tar.3   ](https://drive.google.com/open?id=1URl4V8Zxgpl0jifkjIDjy-gMa5g3Jtsj)|   
    
 
 
