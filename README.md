@@ -34,11 +34,11 @@ The dataset can be downloaded through the following link:
 Some details:         
 
 
-|scenes| number | size| link |
+|scenes| number | size| Google Drive link |
 |-------------------|:-------------------:|:---------------------:|:---------------------:|
-|train ticket | 300k synth + 1.9 real| 13G|[Google Drive]()|  
-|passport | 100k synth |5.8G|[Google Drive](https://drive.google.com/open?id=11XhKsjqzZY6jBakkLDy8lywE3w37kPaC)|  
-|business card | 200k synth| 19G|[Google Drive]()|   
+|train ticket | 300k synth + 1.9 real| 13G|[dataset_trainticket.tar]https://drive.google.com/open?id=1zxu44zSBtBw9CZjIIVPfK0h9YqHfQKID()|  
+|passport | 100k synth |5.8G|[dataset_passport.tar](https://drive.google.com/open?id=11XhKsjqzZY6jBakkLDy8lywE3w37kPaC)|  
+|business card | 200k synth| 19G|[dataset_business.tar.0]()dataset_business.tar.1]()|dataset_business.tar.2]()dataset_business.tar.3]()|   
    
 
 
